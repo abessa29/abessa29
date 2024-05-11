@@ -11,8 +11,6 @@ Sou Alexandre Bessa, e seja bem vindo!
 ## Contatos
 - 💼 LinkedIn:[ Alexandre Bessa](https://www.linkedin.com/in/alexandre-bessa-de-oliveira/)
 
-## Minhas Contribuições
-- DIO Lab Open Source
 
 ## Formação
 - Pós-Graduação em Gestão de Projetos PMI
