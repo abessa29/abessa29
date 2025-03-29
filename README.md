@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Alexandre Bessa, e seja bem vindo!
+Sou Alexandre Oliveira, e seja bem vindo!
 
 ## Sobre Mim
 - Apaixonado por tecnologia e colaboração com pessoas.
